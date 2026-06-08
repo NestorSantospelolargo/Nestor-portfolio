@@ -46,6 +46,7 @@ This assignment focused on adversarial search methods used in competitive enviro
 This assignment demonstrated how AI systems can reason strategically by considering future outcomes and the actions of competing agents.
 
 ### Demo
+
 The demo for this assignmentwas generally fine. Our weakest team member did most of the talking and he mixed up some of his explanations, but in the end he did an alright job explaining.
 This was the final programming assignment, so we did not get to implement the fix we decided on as a group of making a summary .ppt explaining the basics of the program so that we know where to start looking when self studying or reviewing.
 ---
