@@ -27,5 +27,3 @@ I wanted to better understand how AI is being used in the real world and how cur
 ## Outcome 4: Write and Present a Demonstration of a Technical Paper About AI
 
 Another personal goal was improving my ability to communicate technical information. Writing reports and participating in project presentations strengthened my technical writing skills and helped me explain AI concepts more clearly and professionally.
-
-Overall, the course outcomes closely matched my learning goals and helped me develop both theoretical knowledge and practical skills in artificial intelligence.
