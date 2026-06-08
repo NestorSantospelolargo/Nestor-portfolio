@@ -17,7 +17,7 @@ Professor: Dr. J. Fernando Vega Riveros
 - [Essays and Reports](portfolio/Essays_and_Reports.md)
 - [Teamwork and Collaboration](portfolio/Teamwork.md)
 - [Self Assessment](portfolio/Self_Assessment.md)
-- [Final Reflection Addendum](portfolio/Reflection_Addendum.md)
+- [Final Reflection Addendum](portfolio/Addendum_Reflection.md)
 - [AI Acknowledgment](portfolio/AI_Acknowledgment.md)
 
 ## Programming Assignments
