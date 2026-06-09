@@ -30,3 +30,4 @@ This report examined ethical concerns surrounding artificial intelligence, inclu
 ### Reflection
 
 This project highlighted the importance of ethical considerations in AI development. It emphasized that technical performance alone is not sufficient and that responsible AI requires attention to fairness, transparency, accountability, and human well-being.
+**Previous**[Quizzes](Quizzes.md)**Next**[Teamwork and Collaboration](Teamwork.md)
