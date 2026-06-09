@@ -29,6 +29,7 @@ The portfolio contains programming assignments, technical reports, project demon
 - [AI Acknowledgment](portfolio/AI_Acknowledgment.md)
 
 ## Programming Assignments
+
 - [Python Fast or Slow?](https://github.com/NestorSantospelolargo/Nestor-portfolio/blob/main/assignments/python_fastorslow.ipynb)
   [Video](https://youtu.be/O5RPSEzkBQ0)
 - [Search Algorithms](https://github.com/NestorSantospelolargo/Nestor-portfolio/blob/main/assignments/Group_B_Programming_Assigment_Search.ipynb)
