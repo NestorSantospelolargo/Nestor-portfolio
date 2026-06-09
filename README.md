@@ -7,7 +7,15 @@ University of Puerto Rico – Mayagüez
 Professor: Dr. J. Fernando Vega Riveros
 
 ---
+## Portfolio Overview
 
+This portfolio documents my learning experiences, projects, assessments, technical reports, and reflections completed throughout ICOM5015 Artificial Intelligence.
+
+Throughout the semester, I explored both classical and modern AI techniques, including intelligent agents, search algorithms, local search, adversarial search, constraint satisfaction problems, Large Language Models (LLMs), reasoning systems, and ethical issues in artificial intelligence.
+
+The portfolio contains programming assignments, technical reports, project demonstrations, literature reviews, examinations, and personal reflections that demonstrate my progress and understanding of the course material. It also highlights how my perspective on artificial intelligence evolved from viewing AI primarily as language models to recognizing the importance of search, reasoning, planning, and hybrid AI systems.
+
+---
 ## Portfolio Sections
 
 - [Course Overview](portfolio/Course_Overview.md)
