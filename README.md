@@ -21,7 +21,7 @@ Professor: Dr. J. Fernando Vega Riveros
 - [AI Acknowledgment](portfolio/AI_Acknowledgment.md)
 
 ## [Programming Assignments](assignments/)
-- [Python Fast or Slow?](assignments/python_fastorslow.ipynb)
+- [Python Fast or Slow?](https://nbviewer.org/github/NestorSantospelolargo/Nestor-portfolio/blob/main/assignments/python_fastorslow.ipynb)
   [Video](https://youtu.be/O5RPSEzkBQ0)
 - [Search Algorithms](assignments/Group_B_Programming_Assigment_Search.ipynb)
   [Video](https://youtu.be/pX3gSY3cl-c)
