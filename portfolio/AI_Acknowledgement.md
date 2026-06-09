@@ -7,3 +7,5 @@ Specifically, it was used for brainstorming ideas, improving wording and grammar
 The final organization, interpretation of concepts, examples, conclusions, and reflections are my own. I reviewed and edited all AI-assisted content to ensure accuracy, originality, consistency with course concepts, and compliance with academic integrity expectations.
 
 I remain fully responsible for the content of this portfolio and for verifying the accuracy and appropriateness of all submitted material.
+
+**Previous**[Final Reflection Addendum](Addendum_Reflection.md) **Next**[HOME](../README.md)
