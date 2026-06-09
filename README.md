@@ -20,7 +20,7 @@ Professor: Dr. J. Fernando Vega Riveros
 - [Final Reflection Addendum](portfolio/Addendum_Reflection.md)
 - [AI Acknowledgment](portfolio/AI_Acknowledgment.md)
 
-## [Programming Assignments](assignments/)
+## Programming Assignments
 - [Python Fast or Slow?](https://github.com/NestorSantospelolargo/Nestor-portfolio/blob/main/assignments/python_fastorslow.ipynb)
   [Video](https://youtu.be/O5RPSEzkBQ0)
 - [Search Algorithms](https://github.com/NestorSantospelolargo/Nestor-portfolio/blob/main/assignments/Group_B_Programming_Assigment_Search.ipynb)
@@ -32,7 +32,7 @@ Professor: Dr. J. Fernando Vega Riveros
 - [Adversarial Search](https://github.com/NestorSantospelolargo/Nestor-portfolio/blob/main/assignments/PA5_Adveserial_Search%20-%20Group%20B%20(1).ipynb)
   [Video](https://youtu.be/Vuw6bi1n4Sw)
 
-## [Reports](reports/)
+## Reports
 
 - [Python Fast or Slow?](reports/Group%20B%20Report%20python%20fast%20or%20slow%20(2).pdf)
 - [Is AI Real Intelligence That Is Artificial?](reports/Team%20B%20Essay%20on%20AI%20(1).pdf)
