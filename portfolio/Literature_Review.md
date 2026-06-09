@@ -60,6 +60,18 @@ This assignment connected to AI because performance matters when implementing co
 
 ---
 
+## Is Artificial Intelligence True Intelligence? Debate Essay
+
+This essay required reviewing philosophical and scientific literature related to intelligence, cognition, consciousness, and artificial intelligence. The project examined both sides of the debate regarding whether AI should be considered genuine intelligence.
+
+The literature reviewed included functionalism, Bandura's Social Learning Theory, the AI Effect, Searle's Chinese Room argument, Chalmers' work on consciousness, and Dennett's theory of intentionality. These sources provided different perspectives on how intelligence should be defined and whether artificial systems satisfy those definitions.
+
+One of the central aspects of this assignment is that the answer depends heavily on how intelligence is defined. Functionalist perspectives emphasize behavior, learning, and problem-solving, while other perspectives focus on understanding, consciousness, meaning, and subjective experience.
+
+This essay is relevant in the course when studying Large Language Models. Many of the questions raised in the debate directly relate to current discussions about whether LLMs truly reason, understand language, or merely predict patterns based on training data. The assignment helped me approach these questions more critically and recognize that intelligence is a more complex concept than I originally assumed.
+
+---
+
 ## Artemis II Agent Architecture Assignment
 
 The Artemis II report used sources related to NASA’s Artemis II mission, the Orion Guidance, Navigation, and Control system, space mission analysis, autonomous systems, and Russell and Norvig’s AI textbook.
