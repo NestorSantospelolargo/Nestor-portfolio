@@ -22,5 +22,4 @@ One of the most important conclusions I reached was that intelligence in artific
 
 The final reinforced my understanding that hybrid systems, which combine LLMs with structured reasoning and validation methods, will be the most reliable AI architectures moving forward.
 
-**PREVIOUS**[Course Overview](Course_Overview.md) 
-**NEXT**[Programming Assignments](Programming_Assignments.md)
+**Previous**  [Course Overview](Course_Overview.md)    **Next**[Programming Assignments](Programming_Assignments.md)
