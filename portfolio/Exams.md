@@ -21,3 +21,6 @@ The final assessment connected many of the major topics covered throughout the s
 One of the most important conclusions I reached was that intelligence in artificial systems is not simply the ability to generate convincing language. Effective AI systems must also reason, search, validate information, and make decisions under constraints.
 
 The final reinforced my understanding that hybrid systems, which combine LLMs with structured reasoning and validation methods, will be the most reliable AI architectures moving forward.
+
+**PREVIOUS**[Course Overview](Course_Overview.md) 
+**NEXT**[Programming Assignments](Programming_Assignments.md)
