@@ -22,10 +22,15 @@ Professor: Dr. J. Fernando Vega Riveros
 
 ## [Programming Assignments](assignments/)
 - [Python Fast or Slow?](assignments/python_fastorslow.ipynb)
+  [Video](https://youtu.be/O5RPSEzkBQ0)
 - [Search Algorithms](assignments/Group_B_Programming_Assigment_Search.ipynb)
+  [Video](https://youtu.be/pX3gSY3cl-c)
 - [Intelligent Agents](assignments/Group%20B%20Programming%20Assigment%202%20-%20Agents.ipynb)
+  [Video](https://youtu.be/X7CGjyBrxy4)
 - [Local Search](assignments/Group_B_Programming_Assignment_Comparative_Analysis_of_Local_Search.ipynb)
+  [Video](https://www.youtube.com/watch?v=rocBEWozEBo)
 - [Adversarial Search](assignments/PA5_Adveserial_Search%20-%20Group%20B%20(1).ipynb)
+  [Video](https://youtu.be/Vuw6bi1n4Sw)
 
 ## [Reports](reports/)
 
