@@ -59,3 +59,6 @@ This project modeled the Zebra Problem as a Constraint Satisfaction Problem.
 ### Reflection
 
 This assignment strengthened my understanding of constraints, consistency, and systematic problem-solving. It demonstrated how logical reasoning can be translated into computational models.
+
+**Previous** [Exams and Reflections](Exams.md)
+**Next** [Quizzes](Quizzes.md)
