@@ -9,3 +9,5 @@ As a result of these challenges, our group decided to reorganize and continue fu
 Despite these difficulties, the experience taught me valuable lessons about teamwork. I learned the importance of setting clear expectations, monitoring progress throughout a project rather than only near deadlines, and maintaining open communication among team members. I also gained a greater appreciation for the role that responsibility and time management play in the success of technical and engineering projects.
 
 After restructuring the team, collaboration became more efficient and predictable. Team members were able to divide responsibilities more effectively, communicate progress regularly, and complete assignments in a timely manner. These experiences helped me develop stronger collaboration skills and provided insight into the challenges that often arise in real-world project environments.
+
+**Previous**[Essays and Reports](Essays_and_Reports.md)**Next**[Self Assessment](Self_Assessment.md)
