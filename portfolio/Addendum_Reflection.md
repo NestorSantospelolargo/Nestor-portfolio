@@ -1,4 +1,5 @@
 # Portfolio Reflection Addendum
+One of the most influential experiences in this course was participating in the debate and essay on whether artificial intelligence constitutes genuine intelligence. Before researching the topic, I tended to view AI as fundamentally different from human intelligence because it lacks consciousness and subjective experience. However, studying both positions forced me to think more carefully about how intelligence should be defined. The debate showed me that there is no universally accepted definition of intelligence and that many arguments depend on whether intelligence is viewed as a functional capability or as something that requires understanding and awareness.
 
 At the beginning of this course, my understanding of artificial intelligence was heavily influenced by modern AI systems such as ChatGPT and other Large Language Models (LLMs). I viewed AI primarily as a technology capable of generating responses and solving problems through natural language interaction. As the semester progressed, however, my perspective changed significantly.
 
